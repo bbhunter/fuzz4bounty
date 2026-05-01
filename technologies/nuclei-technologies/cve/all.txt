@@ -2158,3 +2158,4 @@
 /api/file/temp/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /install/index.php?step=%3Cscript%3Ealert(document.domain)%3C/script%3E
 /plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+/v1/models

@@ -146,3 +146,4 @@
 /api/v1/nvidia-nim/get-token
 /installation/onboarding
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
+/v1/models

@@ -262,3 +262,4 @@
 /api/setup-complete
 /_image?href=https://raw.githubusercontent.com/projectdiscovery/nuclei-templates/refs/heads/main/helpers/payloads/retool-xss.svg&f=svg
 /wp-json/mrm/v1/wp/admins?term=@
+/v1/models
