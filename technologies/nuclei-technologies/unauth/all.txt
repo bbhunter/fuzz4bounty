@@ -366,3 +366,5 @@
 /wp-content/plugins/video-conferencing-with-zoom-api/README.txt
 /plugins/..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 /v1/models
+/project/default
+/api/platform/profile
