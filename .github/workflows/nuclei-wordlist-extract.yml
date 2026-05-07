@@ -2,7 +2,7 @@ name: Nuclei Wordlist Extractor
 
 on:
   schedule:
-    - cron: '30 2 * * *'  # Once daily at 02:30 UTC
+    - cron: '30 2 * * 0'  # Weekly on Sunday at 02:30 UTC
   workflow_dispatch:
 
 permissions:
