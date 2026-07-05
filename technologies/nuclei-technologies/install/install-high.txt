@@ -75,3 +75,7 @@
 /admin/install
 /installation/onboarding
 /admin/setup
+/concrete5/index.php/install
+/installer/
+/upload/setup/install.php
+/setup/install.php

